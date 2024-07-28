@@ -40,5 +40,6 @@ Use the `/tx` command with the following parameters:
 
 Example:
 
-Output Template Example - [WARNING] DAY/MONTH/YEAR | Ref: #00000  | Timothy RB: FailRP
-                          [WARNING] DAY/MONTH/YEAR | Ref: #00000 Warn Ref: # | Timothy RB: FailRP
+Output Template Example - 
+[WARNING] DAY/MONTH/YEAR | Ref: #00000  | Timothy RB: FailRP
+[WARNING] DAY/MONTH/YEAR | Ref: #00000 Warn Ref: # | Timothy RB: FailRP
