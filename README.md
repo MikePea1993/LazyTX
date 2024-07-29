@@ -10,14 +10,6 @@ LazyTX is a Discord bot designed to help manage warnings and bans in your server
 - Auto-update system
 - Configurable update notification channel per server
 
-## Inviting the Bot
-
-To add LazyTX to your Discord server, use the following invite link:
-
-[Invite LazyTX to your server] ( LINK COMING SOON )
-
-## Usage
-
 ### Setting Up Update Notifications
 
 To set up the channel where update notifications will be sent:
