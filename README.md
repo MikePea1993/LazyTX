@@ -40,15 +40,17 @@ Use the `/tx` command with the following parameters:
 
 Example:
 
-[WARNING] DAY/MONTH/YEAR | Ref: #00000  | Timothy RB: FailRP
+[WARNING] DAY/MONTH/YEAR | Ref: #00000  | Timothy 
+RB: FailRP
 
-[WARNING] DAY/MONTH/YEAR | Ref: #00000 Warn Ref: # | Timothy RB: FailRP
+[WARNING] DAY/MONTH/YEAR | Ref: #00000 Warn Ref: # | Timothy 
+RB: FailRP
 
 [BAN | 1 DAY] 29/07/2024 | Ref: #123455 | Timothy
 RB: FTI, CL, FailRP
 
 Notes:
-Player has repeated offensies in FTI's CL and Failrps
+The player has repeated offences in FTI's CL and Failrps
 
 Shitter Check:
 Results 200 | Non RP Results 160 | [80.00%]
