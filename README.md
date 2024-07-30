@@ -40,7 +40,7 @@ Use the `/tx` command with the following parameters:
 
 Example:
 
-[WARNING] DAY/MONTH/YEAR | Ref: #00000  | Timothy 
+[WARNING] DAY/MONTH/YEAR | Ref: #00000  | Timothy \n
 RB: FailRP
 
 [WARNING] DAY/MONTH/YEAR | Ref: #00000 Warn Ref: # | Timothy 
