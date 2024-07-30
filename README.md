@@ -43,7 +43,7 @@ Example:
 [WARNING] DAY/MONTH/YEAR | Ref: #00000  | Timothy
 RB: FailRP
 
-[WARNING] DAY/MONTH/YEAR | Ref: #00000 Warn Ref: # | Timothy 
+[WARNING] DAY/MONTH/YEAR | Ref: #00000 Warn Ref: # | Timothy
 RB: FailRP
 
 [BAN | 1 DAY] 29/07/2024 | Ref: #123455 | Timothy
